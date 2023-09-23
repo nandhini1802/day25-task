@@ -1,0 +1,11 @@
+.edit-main{
+    padding: 85px 30px 30px 30px;
+    min-height: 100vh;
+    background-color: #ECF0F1;
+}
+
+@media (max-width : 768px){
+    .edit-main{
+        min-height: 90vh;
+    }
+}
